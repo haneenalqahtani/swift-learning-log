@@ -10,3 +10,7 @@ Chapters: Commands, Functions, For Loops
 ## Session 2 — Oct 7, 2026
 Chapter: Conditional Code
 - Conditional Code: [It's a process of using an "if" statement to make the code decide what to do]
+
+## Session 3 — Oct 19, 2026
+Chapter: Logical Operators
+- Logical Operators: [I use them to make my conditional code more specific. The AND (&&) operator returns true when all conditions are true, the OR (||) operator returns true when at least one condition is true, and the NOT (!) operator changes a condition to its opposite]
